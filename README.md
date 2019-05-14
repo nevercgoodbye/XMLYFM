@@ -1,6 +1,7 @@
 # XMLYFM
 这个项目模仿喜马拉雅FM，目前仅实现了发现中的推荐页面、分类页面、广播页面、榜单页面、主播页面  
 持续更新中，更多功能正在赶来...
+https://blog.csdn.net/github_35902923/article/details/76418123
 
 ## 特色
 1. 项目中主要使用了MVVM模式和ReactiveCocoa框架来实现异步并发控制和回调   
